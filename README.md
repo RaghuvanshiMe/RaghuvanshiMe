@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=raghuvanshime" alt="raghuvanshime" /></a> </p>
 
-- 💬 Ask me about **react**
+- 💬 Ask me about **React, Node, Express, MongoDb**
 
 - 📫 How to reach me **mihirsingh8383@gmail.com**
 
